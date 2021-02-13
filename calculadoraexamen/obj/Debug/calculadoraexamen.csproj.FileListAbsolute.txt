@@ -1,0 +1,15 @@
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.csprojAssemblyReference.cache
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\App.g.cs
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen_MarkupCompile.cache
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\MainWindow.g.cs
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen_MarkupCompile.lref
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\bin\Debug\calculadoraexamen.exe.config
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\bin\Debug\calculadoraexamen.exe
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\bin\Debug\calculadoraexamen.pdb
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\MainWindow.baml
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.g.resources
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.Properties.Resources.resources
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.csproj.GenerateResource.cache
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.csproj.CoreCompileInputs.cache
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.exe
+C:\Users\Grecia\source\repos\calculadoraexamen\calculadoraexamen\obj\Debug\calculadoraexamen.pdb
